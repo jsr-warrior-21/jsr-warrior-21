@@ -57,12 +57,12 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsr-warrior-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arvind's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsr-warrior-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsr-warrior-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsr-warrior-21&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsr-warrior-21&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsr-warrior-21&theme=tokyonight&hide_border=true" width="795" alt="GitHub Streak" />
 </p>
 
 ---
