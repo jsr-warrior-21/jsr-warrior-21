@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GRPy8MKag9g1UfEgOi/giphy.gif" alt="Goku Snow Animation" width="600" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/GRPy8MKag9g1UfEgOi/giphy.gif" alt="Goku Snow Animation" width="600" style="border-radius: 12px;"/>
 </p>
 
 <p align="center">
@@ -18,6 +18,9 @@
   <a href="mailto:imarvind2121@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.codechef.com" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3★_1609-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 ---
@@ -25,44 +28,75 @@
 ### 💫 About Me
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering at **IIIT Ranchi** (2024 - 2028)
-- 🔭 **Currently Working On:** Full-Stack Web Applications (Next.js, React, Node.js) & DSA
+- 🔭 **Currently Working On:** Full-Stack Web Applications (**Next.js, React, Node.js**) & DSA
 - 💬 **Ask Me About:** React, Next.js, Node.js, Express, JavaScript, TypeScript, C++, Socket.IO
-- 🏆 **Coding Credentials:** CodeChef 3-Star (Peak Rating: 1609 | Global Rank 112)
+- 🏆 **Coding Credentials:** CodeChef 3-Star (Peak Rating: **1609** | Global Rank **112**)
 - 🎯 **Goal:** Building Scalable High-Performance Web Systems
-- ⚡ **Fun Fact:** Solved 650+ Algorithmic Problems across LeetCode & CodeChef
+- ⚡ **Fun Fact:** Solved **650+ Algorithmic Problems** across LeetCode & CodeChef
 
 ---
 
-### 💻 Tech Stack & Skills
+### 🛠️ Languages & Technologies
 
+#### 💻 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,tailwind,redux,mongodb,mysql,git,github,postman,vite,vercel,netlify&perline=9" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,html,css" alt="Languages" />
+  </a>
+</p>
+
+#### ⚡ Frontend & Backend Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,redux,nodejs,express" alt="Frameworks" />
+  </a>
+</p>
+
+#### 🗄️ Databases & Developer Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vite,vercel,netlify" alt="Tools" />
   </a>
 </p>
 
 ---
 
-### 🏆 Achievements & Coding Highlights
+### 🏆 Achievements & Highlights
 
-| Category | Details |
+| Category | Description |
 | :--- | :--- |
-| ⭐ **CodeChef** | 3-Star Rated (Peak: **1609** \| Global Rank **112** out of 25,000+) |
-| 🧠 **Problem Solving** | **650+ DSA Problems** solved across LeetCode, GFG & CodeChef (85%+ Accuracy) |
+| ⭐ **CodeChef 3-Star** | Peak Rating **1609** \| Global Rank **112** out of 25,000+ competitors |
+| 🧠 **Data Structures & Algorithms** | **650+ Problems Solved** across LeetCode, GeeksforGeeks & CodeChef |
 | 🚀 **Hackathons** | Delivered 4 Web MVP Prototypes in 24-Hour Hackathons |
-| 💼 **Experience** | Former Web Development Intern at **InAmbigos Foundation** |
+| 💼 **Internship** | Former Web Development Intern at **InAmbigos Foundation** |
 
 ---
 
-### 📈 GitHub Statistics
+### 🚀 Featured Projects
+
+- **🎬 PulsePlay** — *Full-Stack MERN Video Streaming Web Application*
+  - Built using **React.js, Node.js, Express.js, MongoDB & Tailwind CSS**
+  - Features sub-180ms response times, JWT authentication, and automated CI/CD workflows.
+
+- **💬 Talkify** — *Real-Time Room-Based Chat Application*
+  - Built using **Node.js, Express.js, Socket.IO & MongoDB**
+  - Supports 100+ concurrent WebSocket connections per room with passcode encryption.
+
+---
+
+### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsr-warrior-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsr-warrior-21&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsr-warrior-21&theme=tokyo-night&hide_border=true" width="100%" alt="Arvind's Activity Graph" />
 </p>
 
+---
+
+### 📊 GitHub Stats Overview
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsr-warrior-21&theme=tokyonight&hide_border=true" width="795" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jsr-warrior-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jsr-warrior-21&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top Languages" />
 </p>
 
 ---
