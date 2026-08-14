@@ -1,106 +1,95 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Arvind+Yadav;Full-Stack+Web+Developer;B.Tech+CSE+%40+IIIT+Ranchi;3-Star+CodeChef+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Arvind+Yadav;Full-Stack+Web+Developer;B.Tech+CSE+%40+IIIT+Ranchi" alt="Typing SVG" />
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/GRPy8MKag9g1UfEgOi/giphy.gif" alt="Goku Snow Animation" width="600" style="border-radius: 12px;"/>
-</p>
+##Welcome 👋
 
 <p align="center">
+  <img src="https://media.giphy.com/media/GRPy8MKag9g1UfEgOi/giphy.gif" alt="Goku Snow Animation" width="600" style="border-radius: 10px;"/>
+</p>
+
+- 🎓 Studying **B.Tech CSE at IIIT Ranchi**
+- 🔭 I’m currently working on **Full-Stack Web Apps & Data Structures**
+- 💬 Ask me about **Next.js, React, Node.js, Express, JavaScript, TypeScript, C++**
+- 📫 How to reach me **imarvind2121@gmail.com**
+
+---
+
+### Connect with me:
+<p align="left">
   <a href="https://linkedin.com/in/arvind-yadav-m21" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/jsr-warrior-21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="mailto:imarvind2121@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.codechef.com" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3★_1609-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 💫 About Me
-
-- 🎓 **Education:** B.Tech in Computer Science & Engineering at **IIIT Ranchi** (2024 - 2028)
-- 🔭 **Currently Working On:** Full-Stack Web Applications (**Next.js, React, Node.js**) & DSA
-- 💬 **Ask Me About:** React, Next.js, Node.js, Express, JavaScript, TypeScript, C++, Socket.IO
-- 🏆 **Coding Credentials:** CodeChef 3-Star (Peak Rating: **1609** | Global Rank **112**)
-- 🎯 **Goal:** Building Scalable High-Performance Web Systems
-- ⚡ **Fun Fact:** Solved **650+ Algorithmic Problems** across LeetCode & CodeChef
-
----
-
-### 🛠️ Languages & Technologies
-
-#### 💻 Programming Languages
+### Languages and Tools:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,html,css" alt="Languages" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="Socket.IO" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
 </p>
 
-#### ⚡ Frontend & Backend Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,redux,nodejs,express" alt="Frameworks" />
-  </a>
-</p>
-
-#### 🗄️ Databases & Developer Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vite,vercel,netlify" alt="Tools" />
-  </a>
-</p>
-
 ---
 
-### 🏆 Achievements & Highlights
-
-| Category | Description |
-| :--- | :--- |
-| ⭐ **CodeChef 3-Star** | Peak Rating **1609** \| Global Rank **112** out of 25,000+ competitors |
-| 🧠 **Data Structures & Algorithms** | **650+ Problems Solved** across LeetCode, GeeksforGeeks & CodeChef |
-| 🚀 **Hackathons** | Delivered 4 Web MVP Prototypes in 24-Hour Hackathons |
-| 💼 **Internship** | Former Web Development Intern at **InAmbigos Foundation** |
-
----
-
-### 🚀 Featured Projects
-
-- **🎬 PulsePlay** — *Full-Stack MERN Video Streaming Web Application*
-  - Built using **React.js, Node.js, Express.js, MongoDB & Tailwind CSS**
-  - Features sub-180ms response times, JWT authentication, and automated CI/CD workflows.
-
-- **💬 Talkify** — *Real-Time Room-Based Chat Application*
-  - Built using **Node.js, Express.js, Socket.IO & MongoDB**
-  - Supports 100+ concurrent WebSocket connections per room with passcode encryption.
-
----
-
-### 📈 GitHub Contribution Graph
-
+### GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsr-warrior-21&theme=tokyo-night&hide_border=true" width="100%" alt="Arvind's Activity Graph" />
-</p>
-
----
-
-### 📊 GitHub Stats Overview
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jsr-warrior-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="410" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jsr-warrior-21&layout=compact&theme=tokyonight&hide_border=true" width="380" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsr-warrior-21&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
