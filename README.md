@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://arvind-portfolio-phi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-🌐_Visit_Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/arvind-yadav-m21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -24,6 +27,7 @@
 
 ### 💫 About Me
 
+- 🌐 **Portfolio:** Check out my live site at [arvind-portfolio-phi.vercel.app](https://arvind-portfolio-phi.vercel.app/)
 - 🎓 **Education:** B.Tech in Computer Science & Engineering at **IIIT Ranchi** (2024 - 2028)
 - 🔭 **Currently Working On:** Full-Stack Web Applications (**Next.js, React, Node.js**) & DSA
 - 💬 **Ask Me About:** React, Next.js, Node.js, Express, JavaScript, TypeScript, C++, Socket.IO
@@ -60,6 +64,8 @@
 | ⭐ **CodeChef 3-Star** | Peak Rating **1609** \| Global Rank **112** out of 25,000+ competitors |
 | 🧠 **Data Structures & Algorithms** | **650+ Problems Solved** across LeetCode, GeeksforGeeks & CodeChef |
 | 🚀 **Hackathons** | Delivered 4 Web MVP Prototypes in 24-Hour Hackathons |
+
+---
 
 ### 📈 GitHub Contribution Graph
 
