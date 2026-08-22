@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/GRPy8MKag9g1UfEgOi/giphy.gif" alt="Goku Snow Animation" width="600" style="border-radius: 12px;"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://arvind-portfolio-phi.vercel.app/" target="_blank">
